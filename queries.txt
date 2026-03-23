@@ -1,0 +1,59 @@
+>> AI / Computer
+
+How do transformer architectures enable large language models to scale effectively?
+
+What are the key differences between CNNs, RNNs, and Transformers in deep learning?
+
+What techniques are used to reduce hallucinations in large language models?
+
+How does reinforcement learning from human feedback (RLHF) improve AI models?
+
+What are the latest research trends in multimodal AI systems?
+
+>> Science
+
+How quantum computing could impact modern cryptography?
+
+What are the most promising technologies for carbon capture and storage?
+
+How brain-computer interfaces could change human-computer interaction?
+
+What are the major technical challenges in building fully autonomous vehicles?
+
+>> Medical
+
+How mRNA vaccine technology works and its future applications?
+
+What are the current breakthroughs in gene editing using CRISPR?
+
+How gut microbiome affects human health and disease?
+
+What are the challenges in developing treatments for Alzheimer’s disease?
+
+>> Society
+
+What are the economic impacts of artificial intelligence on the global job market?
+
+How social media algorithms influence political polarization?
+
+What are the main causes of rising housing prices in major global cities?
+
+>> Space
+
+What are the major challenges of human colonization of Mars?
+
+How dark matter research is conducted and what evidence currently exists?
+
+What technologies enable reusable rockets in modern spaceflight?
+
+>> Comprehensive subjects
+
+How artificial intelligence is transforming healthcare diagnostics
+
+The impact of climate change on global food security
+
+The ethical challenges of autonomous weapons systems
+
+How blockchain technology could change supply chain management
+
+The future of renewable energy and global energy transition
