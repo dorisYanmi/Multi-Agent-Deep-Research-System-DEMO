@@ -199,9 +199,6 @@ The system will generate a structured Markdown report with sections including:
 
 See [requirements.txt](requirements.txt) for a complete list of dependencies.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
